@@ -4,7 +4,8 @@
 This project provides an in-depth exploratory data analysis (EDA) of the 2024 World Happiness Report data. The dataset explores various indicators contributing to happiness and well-being across different countries, such as GDP per capita, social support, healthy life expectancy, freedom of choice, generosity, and perceptions of corruption.
 
 ## Dataset
-**Source**: The dataset used in this analysis is based on the World Happiness Report 2024, which includes 2363 entries with the following key columns:
+**Source**: https://www.kaggle.com/datasets/ajaypalsinghlo/world-happiness-report-2024
+The dataset used in this analysis is based on the World Happiness Report 2024, which includes 2363 entries with the following key columns:
 
 - `Country name`: Name of the country.
 - `year`: Year of data collection.
@@ -17,6 +18,8 @@ This project provides an in-depth exploratory data analysis (EDA) of the 2024 Wo
 - `Perceptions of corruption`: Indicator of perceived corruption.
 - `Positive affect`: Frequency of positive emotions experienced.
 - `Negative affect`: Frequency of negative emotions experienced.
+
+  
 
 ## Key Objectives
 - **Analyze** the distribution and trends of happiness scores and other indicators over time.
